@@ -30,7 +30,7 @@ After:
 <img width="623" alt="Screen Shot 2023-11-26 at 1 21 59 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/06ed0024-bea8-442c-aed5-e388a0c4c924">
 
 Fig. 1: Histogram of the differences in magnetic field strength between MESSENGER observation and simulation (observation subtracted by simulation), during a certain period of time in the year 2013. Negative differences indicate that the simulated strength is lower than observed, and vice versa for positive differences. The top panel shows before correction, and bottom shows after. The most noticeable difference between plots I made was the number of bins/bin size. In our case here, we wanted more specific information about the strength shift
-
+ 
 
 
 
