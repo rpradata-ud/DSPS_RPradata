@@ -11,3 +11,7 @@ The figure above is from Kaib & Volk, 2022 (link: https://arxiv.org/pdf/2206.000
 <img width="526" alt="Screen Shot 2023-11-25 at 9 37 30 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/79ad9104-9501-48b7-98f5-b21c343b7673">
 
 The figure above is from Sánchez-Sierras et al., 2023 (link: https://arxiv.org/pdf/2311.12933.pdf). It shows certain line profiles of certain epochs pertaining a black hole transient GRS 1915+105. I think this plot is good because it has a neat and readable layout. The left and right sides are clearly seperated as the different Epochs, and horizontally, one can see the line profiles for each corresponding epoch. The y-axes for both left and right sides follow the same scales, which makes it easier to compare line profiles between the 2 epochs. The figure also strives to make efficient use of vertical space by only showing the x-axis labels on the far bottom plots. This way, the figure can draw the vertical dashed lines (marking the velocities) through the 3 line profiles.
+
+
+
+Part 2:
