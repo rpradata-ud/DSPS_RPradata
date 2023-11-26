@@ -1,6 +1,6 @@
 Part 1.
 
-"Bad" plot:
+"Bad" plot: 
 
 <img width="422" alt="Screen Shot 2023-11-18 at 2 00 14 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/fba07525-6aed-49b9-94a4-ca8f7b261668">
 
@@ -16,7 +16,7 @@ The figure above is from Sánchez-Sierras et al., 2023 (link: https://arxiv.org/
 
 Part 2
 
-Plot from my research
+Plot from my research:
 
 In my research, I am making a comparative study between solar wind data at Mercury observed by the MESSENGER spacecraft, and solar wind data at the planet, during the same time, simulated by a solar wind model (called the AWSoM). I am especially looking at the radial magnetic field component of the solar wind profile. The comparison is run using Dynamic Time Warping, due to a prior knowledge that the simulation and observation are time-shifted by varying time intervals. Hence, the points are mapped from one series to another based on the "most similar features" computed by the algorithm. The differences in magnetic field strength between these comparison points are recorded in a histogram, shown in the figures below. 
 
