@@ -18,15 +18,21 @@ Part 2
 
 Plot from my research
 
+In my research, I am making a comparative study between solar wind data at Mercury observed by the MESSENGER spacecraft, and solar wind data at the planet, during the same time, simulated by a solar wind model (called the AWSoM). I am especially looking at the radial magnetic field component of the solar wind profile. The comparison is run using Dynamic Time Warping, due to a prior knowledge that the simulation and observation are time-shifted by varying time intervals. Hence, the points are mapped from one series to another based on the "most similar features" computed by the algorithm. The differences in magnetic field strength between these comparison points are recorded in a histogram, shown in the figures below. 
+
 Before:
 
 <img width="628" alt="Screen Shot 2023-11-26 at 1 22 45 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/8b93b23c-95ea-43bc-bf11-07e4bcd423a2">
-
-Fig. 1: 
 
 
 After:
 
 <img width="623" alt="Screen Shot 2023-11-26 at 1 21 59 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/06ed0024-bea8-442c-aed5-e388a0c4c924">
 
-Fig. 2: 
+Fig. 1: 
+
+
+
+
+top and bottom panels
+figure captions specify what minus what
