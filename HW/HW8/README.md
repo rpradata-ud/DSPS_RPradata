@@ -14,4 +14,13 @@ The figure above is from Sánchez-Sierras et al., 2023 (link: https://arxiv.org/
 
 
 
-Part 2:
+Part 2
+
+Plot from my research
+Before:
+<img width="628" alt="Screen Shot 2023-11-26 at 1 22 45 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/8b93b23c-95ea-43bc-bf11-07e4bcd423a2">
+Fig. 1: 
+
+After:
+<img width="623" alt="Screen Shot 2023-11-26 at 1 21 59 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/06ed0024-bea8-442c-aed5-e388a0c4c924">
+Fig. 2: 
