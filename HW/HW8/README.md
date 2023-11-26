@@ -29,7 +29,9 @@ After:
 
 <img width="623" alt="Screen Shot 2023-11-26 at 1 21 59 PM" src="https://github.com/rpradata-ud/DSPS_RPradata/assets/143296355/06ed0024-bea8-442c-aed5-e388a0c4c924">
 
-Fig. 1: Histogram of the differences in magnetic field strength between MESSENGER observation and simulation (observation subtracted by simulation), during a certain period of time in the year 2013. Negative differences indicate that the simulated strength is lower than observed, and vice versa for positive differences. The top panel shows before correction, and bottom shows after. The most noticeable difference between plots I made was the number of bins/bin size. In our case here, we wanted more specific information about the strength shift
+Fig. 1: Histogram of the differences in magnetic field strength between MESSENGER observation and simulation (observation subtracted by simulation), during a certain period of time in the year 2013. Negative differences indicate that the simulated strength is lower than observed, and vice versa for positive differences. The top panel shows before correction, and bottom shows after. 
+
+In the corrected histogram, I added units to the x-axis and changed the y-axis to be the "frequency fraction" out of the total number of datapoints, instead of just the "count" or number of datapoints that fall in certain bins. This shows more clearly the numerical proportion of points on the different categories. Another noticeable difference between plots I made was the number of bins/bin size. In our case here, we wanted more precision on the strength shift. Therefore, from bin size of 5 nT, I reduced it so that each bin was 2 nT. As a result, this also changed the shape of the histogram. In the top panel, one may infer that the strength shift is centered around 0 nT, while in the bottom panel, the shift instead more significantly peaks around 2-6 nT, which is non-negligible. In this regard, from the top panel, one may infer that the strength difference strongly peaks around 0 nT, while in reality, the distribution is more complicated than one thinks
  
 
 
