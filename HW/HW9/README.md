@@ -1,1 +1,1 @@
-This file contains HW9, which is on the CART method; particularly on implementations of the Random Forest (RF) and Gradient Boosted Tree (GBT) Classifiers and Regressors. 
+This file contains HW9, which is on the CART method; particularly on implementations of the Random Forest (RF) and Gradient Boosted Tree (GBT) Classifiers and Regressors. For this homework, I worked in a group with Sarah, Paula, and Masooma. We all did the work in each individual notebooks, but we especially had discussions on different ways to run the model.
