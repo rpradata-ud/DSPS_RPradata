@@ -5,7 +5,7 @@ I was also having trouble with the forest classifiers because when I printed the
 
 The Regressor process was quite similar; I followed the skeleton code and the documentations. Though, I was a bit confused about calculating the score. Then, Paula pointed out that that was the reason why we're calculating L1 and L2, and we can evaluate the scores/performance for regression.
 
-For the next parts, I followed the skeleton again, but looked more into the concepts, and learnt some things that I listed as notes for myself in the notebook. Some of them were about hyperparameter tuning, finding best parameters for our forest model. I also realized I had to revert how I order the rf.feature_importances_ and the corresponding argsort() function, because on its own, it orders from the smallest importance (Masooma helped with this). Moreover, I learnt about the ROC curve, and thought about ways to interpret it in our context. 
+For the next parts, I followed the skeleton again, but looked more into the concepts, and learnt some things that I listed as notes for myself in the notebook. Some of them were about hyperparameter tuning, finding best parameters for our forest model. I also realized I had to revert how I order the rf.feature_importances_ and the corresponding argsort() function, because on its own, it orders from the smallest importance (Masooma helped with this). Tali pointed out to us about the possibility of finding the "best parameters" using only our selected "most important" features, which I think is worth exploring. Moreover, I learnt a bit about the ROC curve, and thought about ways to interpret it in our context. 
 
 
 Important note: 
